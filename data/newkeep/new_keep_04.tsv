@@ -1,0 +1,130 @@
+stalk	2		1	n. 茎，秆；跟踪，悄悄接近
+stall	2		0	
+stammer	2		0	
+stamp	3		0	
+stance	2		1	n. 立场；姿态；站姿
+stand	3	sist	0	
+standard	1		1	
+standardization	3	norm	0	
+standardize	2	norm	1	vt. 使标准化，使合乎标准
+standby	3		0	
+standpoint	2		1	n. 立场；观点
+staple	2		0	
+stapler	3		0	
+star	3		0	
+stare	3		0	
+stark	2		1	adj. 荒凉的；鲜明的；完全的
+starry	3		0	
+start	3		0	
+starter	3		0	
+startle	2		1	vt. 使惊吓，使吃惊
+starvation	2		0	
+starve	1		1	v. 饿死；使饥饿；渴望
+state	3	sist	0	
+statement	2	sist	1	n. 陈述；声明；报表
+statesman	2	sist	0	
+static	2	sist	0	
+station	3	sist	0	
+stationary	2	sist	0	
+stationery	2		1	n. 文具；信纸
+statistic	2	sist	0	
+statistical	3	sist	0	
+statue	3	sist	0	
+status	1	sist	1	n. 地位；身份；状态
+statute	2	sist	0	
+statutory	3	sist	0	
+stay	3	sist	0	
+steadily	2		0	
+steady	1		1	adj. 稳定的；平稳的；v. 使稳定
+steak	3		0	
+steal	3		0	
+steam	3		0	
+steamer	3		0	
+steamy	3		0	
+steel	3		0	
+steep	1		1	
+steer	2		0	
+stem	2		1	n. 茎，干；vi. 起源于
+step	3		0	
+stereotype	1	graph	1	n. 陈规，刻板印象；vt. 使模式化
+stern	2		0	
+steward	2		0	
+stick	3		0	
+sticky	2		1	adj. 粘的；棘手的
+stiff	1		1	adj. 硬的；僵直的；拘谨的
+stiffen	3	firm	0	
+stifle	3		0	
+stigma	3		0	
+still	3		0	
+stimulant	3		0	
+stimulate	1		1	vt. 刺激；激励，鼓舞
+stimulation	3		0	
+stimulus	1		1	n. 刺激物；激励因素
+sting	2		0	
+stipulate	3	sist	0	
+stipulation	3	sist	0	
+stir	2		0	
+stitch	2		0	
+stock	1		1	n. 存货；股票；储备；vt. 储备
+stocking	3		0	
+stomach	3		0	
+stone	3		0	
+stony	3		0	
+stool	3		0	
+stoop	3		0	
+stop	3		0	
+stoppage	3		0	
+storage	1		1	n. 贮藏，保管；存储
+store	3		0	
+storm	3		0	
+stormy	3		0	
+story	3		0	
+stout	3		0	
+stove	3		0	
+straight	3		0	
+straighten	3		0	
+straightforward	2		0	
+strain	1	string	1	n. 紧张；压力；拉伤；vt. 拉紧；扭伤
+strait	3		0	
+strand	2		0	
+strange	3		0	
+stranger	3		0	
+strangle	3		0	
+strap	3		0	
+strategic	1		1	adj. 战略的；关键的
+strategy	1		1	
+straw	3		0	
+stray	2		0	
+streak	2		0	
+stream	3		0	
+streamline	3		0	
+street	3		0	
+strength	1		1	
+strengthen	2		0	
+stress	1	string	1	
+stressful	3	string	0	
+stretch	1	string	1	v. 伸展，伸长；n. 一片，一段
+strict	1	string	1	
+stride	2		0	
+strike	1		1	
+striking	2		0	
+string	2	string	1	n. 细绳；一串；vt. 用线串
+strip	2		0	
+stripe	3		0	
+strive	2		0	
+stroke	1		1	n. 中风；击打；笔画；vt. 抚摸
+stroll	3		0	
+strong	3		0	
+structural	2	stru	0	
+structure	1	stru	1	n. 结构；建筑物；vt. 构造
+struggle	3		0	
+stubborn	2		0	
+student	3	stud	0	
+studio	2	stud	0	
+study	3	stud	0	
+stuff	2		0	
+stuffing	3		0	
+stuffy	3		0	
+stumble	2		0	
+stump	3		0	
+stun	2		1	vt. 使震惊；使昏迷

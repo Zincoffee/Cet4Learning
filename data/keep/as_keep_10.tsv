@@ -1,0 +1,140 @@
+horsepower	pot	0
+host	hosp	1
+hostess	hosp	0
+hostile	hosp	1
+household		1
+housewife		0
+human	hum	1
+humble	hum	1
+humid	hum	1
+humorous	hum	0
+humour	hum	1
+hunt		0
+hut		0
+hydrogen	hydr	0
+ideal	vid	1
+identical	ident	1
+identify	ident	1
+idiom		0
+idle		1
+i.e		0
+ignorant	cogn	1
+ignore	cogn	1
+illegal	leg	1
+illustrate	luc	1
+illustration	luc	0
+image		1
+imaginary		0
+imagination		1
+imagine		1
+imitate		1
+immediate	med	1
+immediately	med	0
+immense	meter	1
+immigrant	migr	1
+impact		1
+impatient	pass	0
+implication	plic	1
+imply	plic	1
+import	port	1
+importance	port	0
+important	port	0
+impose	pon	1
+impossible	pot	0
+impress		1
+impression		1
+impressive		1
+imprison	prehend	0
+improvement	prob	0
+incident	cad	1
+incline	clin	1
+increasingly	creas	0
+indefinite	fin	1
+independence	pend	0
+independent	pend	1
+index	dic	1
+indicate	dic	1
+indication	dic	0
+indifferent	fer	1
+indignant	dign	1
+indirect	reg	0
+indispensable	pend	1
+individual	divid	1
+industrial	stru	0
+industrialize	stru	0
+industry	stru	1
+inefficient	fac	0
+inevitable		1
+inexpensive	pend	0
+infant		0
+infect	fac	1
+infer	fer	1
+inferior		1
+infinite	fin	1
+influence	flu	1
+influential	flu	0
+inform	form	1
+inhabit	hab	1
+inhabitant	hab	0
+inherit		1
+initial	it	1
+injection	ject	1
+injure	jud	1
+injury	jud	1
+inner		0
+innocent		1
+input		0
+inquire	quir	1
+inquiry	quir	1
+insect	sec	0
+insert		1
+insist	sist	1
+inspect	spec	1
+inspection	spec	0
+inspire	spir	1
+install		1
+installation		0
+instance	sist	1
+instant	sist	1
+instantly	sist	0
+instinct		1
+institute	sist	1
+institution	sist	1
+instruct	stru	1
+instruction	stru	0
+instrument	stru	1
+insufficient	fac	0
+insult	sal	1
+insurance	cur	1
+insure	cur	0
+intellectual	lect	1
+intelligence	lect	1
+intelligent	lect	0
+intend	tend	1
+intense	tend	1
+intensity	tend	1
+intensive	tend	1
+intention	tend	1
+intentional	tend	0
+interaction	act	1
+interfere	fer	1
+interference	fer	0
+interior		1
+intermediate	med	1
+internal		1
+international	nat	0
+interpret		1
+interpretation		0
+interpreter		0
+interrupt	rupt	1
+interruption	rupt	0
+interval		1
+interview	vid	1
+intimate		1
+introduction	duc	0
+invade	vad	1
+invasion	vad	0
+invent	ven	1
+invention	ven	0
+inventor	ven	0
+invest	vest	1
